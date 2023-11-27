@@ -1,1 +1,1 @@
-HTML Assinmints
+HTML Exercises
